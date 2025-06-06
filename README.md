@@ -66,9 +66,6 @@ cd library-management-system</code></pre>
             <p>Log in as an admin using <code>username: admin</code> and <code>password: admin123</code> for the Admin Dashboard. Register a new user for the User Dashboard.</p>
         </li>
     </ol>
-
-
-
 ## Contribution and Contact
 
 **Contributing**  
@@ -78,11 +75,19 @@ We welcome contributions to enhance the Library Management System! To contribute
 - Submit a pull request with a clear description of your improvements.
 - Ensure your contributions align with the project’s goals and follow standard coding practices.
 
-**Contact**  
-For questions, feedback, or suggestions, please reach out us:
-**Muhammad Usman**
-[LinkedIn](www.linkedin.com/in/muhammad-usman-018535253)
-[Email](muhammadusman.becsef22@iba-suk.edu.pk)
-[Your Name] at [your-email@example.com]. You can also connect with the team on [LinkedIn](#) for further discussion about the project or collaboration opportunities.
+## 📞 Contact
 
-Thank you for exploring our project! We appreciate your interest and support.
+If you have any questions, suggestions, or would like to connect with the project contributors, feel free to reach out through the following platforms:
+
+### 👨‍💻 Muhammad Usman  
+- [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253)  
+- 📧 Email: muhammadusman.becsef22@iba-suk.edu.pk 
+
+### 👩‍💻 Asma Channa  
+- [LinkedIn](https://www.linkedin.com/in/iasmachanna/)
+- 📧 Email: asmachanna.becsef22@iba-suk.edu.pk
+
+### 👨‍💻 Soyam Kapoor  
+- [LinkedIn](https://www.linkedin.com/in/soyamkapoor/)  
+- 📧 Email: soyamkapoor.becsef22@iba-suk.edu.pk 
+
